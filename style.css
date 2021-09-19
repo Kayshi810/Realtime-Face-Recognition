@@ -3,7 +3,7 @@
     font-size: 23px;
     width:100%;
     margin:0px;
-    box-shadow:5px 5px 5px darkcyan;
+    box-shadow:5px 5px 5px darkgreen;
 }
 .heading_div
 {
@@ -12,7 +12,7 @@
     padding:10px;
     border-radius: 20px;
     color:black;
-    box-shadow: 5px 5px 5px darkcyan;
+    box-shadow: 5px 5px 5px darkgreen;
 }
 .heading_div_2
 {
@@ -21,7 +21,7 @@
 }
 .result_para_tag
 {
-    box-shadow: 5px 5px 5px darkred;
+    box-shadow: 5px 5px 5px darkcyan;
     font-size: 20px;
 }
 .copyright_footer
@@ -30,7 +30,7 @@
     color:white;
     bottom:0;
     width:100%;
-    background-color: #57b3cf;
+    background-color: gray;
     line-height: 3;
     text-align: center;
 }
